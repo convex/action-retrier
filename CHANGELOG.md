@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3.2
+
+### Patch Changes
+
+- Return the typed component API from the test registration helper and require
+  Convex 1.25.4 or newer.
+  ([#81](https://github.com/convex/action-retrier/issues/81))
+
 ## 0.3.1
 
 - Update ctx types for convex@1.41+
